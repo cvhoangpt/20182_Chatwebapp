@@ -2,6 +2,7 @@ import React from 'react';
 import {EmojiConvertor} from 'emoji-js';
 import ReactDOM from 'react-dom';
 
+// authority HieuNa
 const Message = (props) => { 
 
     const emoji = new EmojiConvertor();

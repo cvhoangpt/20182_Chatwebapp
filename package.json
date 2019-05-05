@@ -1,16 +1,19 @@
 {
-  "name": "client",
+  "name": "chat-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@pusher/chatkit": "^0.7.18",
     "bootstrap": "^4.3.1",
-    "chatkit": "0.0.1-security",
+    "create-react-context": "^0.2.3",
+    "emoji-js": "^3.4.1",
     "firebase": "^5.8.6",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8",
-    "reactstrap": "^7.1.0"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^3.0.0",
+    "react-strap": "0.0.1",
+    "reactstrap": "^8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",

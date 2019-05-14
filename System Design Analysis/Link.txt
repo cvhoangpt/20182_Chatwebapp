@@ -1,3 +1,5 @@
 Usecase Diagram: https://drive.google.com/file/d/1bG0F3rO8w3xOp1ctdaDOCrgAOXr74rqO/view?usp=sharing
 Sequence Diagram: https://drive.google.com/drive/folders/1pMLNNZXkcRRlv34tESyLuix-kJNh6YL8?usp=sharing
 Database Design: https://drive.google.com/drive/folders/1y0qrfq0k86H-QLxCgqIHvlvfSMXQm1Lc?usp=sharings
+
+Presentation: https://drive.google.com/drive/folders/1G-D7Q3j9aIXnCv0F_y0_AdYsTDexXH5w?usp=sharing
